@@ -41,6 +41,6 @@
     "@types/request": "^0.0.39",
     "bitauth": "file:../lib",
     "chalk": "^1.1.3",
-    "request": "^2.79.0"
+    "request": "^2.87.0"
   }
 }

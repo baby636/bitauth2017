@@ -24,8 +24,8 @@
   },
   "devDependencies": {
     "@types/node": "^0.0.2",
-    "trash-cli": "^1.4.0",
-    "tslint": "^4.0.2",
+    "trash-cli": "^2.0.0",
+    "tslint": "^5.3.0",
     "tslint-config-standard": "^2.0.0",
     "typescript": "^2.1.5"
   },
